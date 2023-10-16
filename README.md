@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @JorgeTec9206
-- 👀 I’m interested frontend y backend, tambien en la fotografia
-- 🌱 I’m currently learning ... microservicios
-- 💞️ I’m looking to collaborate on ... 
+- 👀 I’m interested frontend and backend, also in photography
 - 📫 How to reach me ... email: jricardo.poo@gmail.com
 
 <!---
